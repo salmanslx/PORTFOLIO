@@ -34,7 +34,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center px-6 max-w-6xl mx-auto">
         {/* Badge */}
-        <div className="inline-flex items-center px-4 py-2 rounded-full bg-card/50 backdrop-blur-sm border border-border mb-8 animate-fade-in">
+        <div className="inline-flex items-center px-4 py-2 mt-20 rounded-full bg-card/50 backdrop-blur-sm border border-border mb-8 animate-fade-in">
           <span className="text-sm text-muted-foreground">✨ Crafting Digital Experiences</span>
         </div>
 
